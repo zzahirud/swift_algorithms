@@ -9,6 +9,6 @@ import Foundation
 
 var str = "Hello, playground"
 
-for num in 1...14{
+for num in 1...15{
     print (num)
 }
