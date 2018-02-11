@@ -4,6 +4,6 @@ import UIKit
 
 var str = "Hello, playground"
 
-for num in 1...10{
+for num in 1...11{
     print (num)
 }
